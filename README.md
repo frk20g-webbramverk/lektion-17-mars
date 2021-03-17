@@ -14,4 +14,4 @@ Att tänka i Vue: https://gist.github.com/zocom-christoffer-wallenberg/5d14dc253
 
 ## Inspelningar
 
-https://drive.google.com/drive/folders/1x41BcdbuQzjlR95rqYvjhR2b7nBlSnK_
+https://drive.google.com/drive/folders/1o3xjRCsd5XCOMJwStUQwdyiLp3R-mdx1?usp=sharing
