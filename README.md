@@ -4,6 +4,8 @@
 
 https://gist.github.com/zocom-christoffer-wallenberg/eb1f3e53334448428b1076d18c874f27
 
+Övning med Vuex: https://www.figma.com/file/sEMBLMjbgtdlAkRTgfbVrF/Frameworks---Create-account?node-id=0%3A1
+
 ## Artiklar
 
 Vue Life Cycle Hooks: https://vuejs.org/v2/guide/instance.html
