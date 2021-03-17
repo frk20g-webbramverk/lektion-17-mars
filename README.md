@@ -10,9 +10,13 @@ https://gist.github.com/zocom-christoffer-wallenberg/eb1f3e53334448428b1076d18c8
 
 Vue Life Cycle Hooks: https://vuejs.org/v2/guide/instance.html
 
+Vuex: https://vuex.vuejs.org/
+
 Att tänka i Vue: https://gist.github.com/zocom-christoffer-wallenberg/5d14dc253f465d1093ce303be7321f6b
 
 ## Videor
+
+Learn Vuex: https://scrimba.com/learn/vuex
 
 ## Inspelningar
 
